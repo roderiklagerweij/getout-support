@@ -5,7 +5,7 @@ Welcome to the support page for the **Get Out** app!
 ## Contact Us
 If you have any questions, issues, or feedback, feel free to reach out to us.
 
-- **Email:** support@getoutapp.com (use a placeholder email for now if you don't have one)
+- **Email:** roderiklagerweij@gmail.com
 - **Privacy Policy:** [View here](https://www.freeprivacypolicy.com/live/26bc7b38-6e98-4dab-b8b5-7c3e408ce697)
 
 ## FAQ
